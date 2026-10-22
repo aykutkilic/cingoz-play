@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="45%" r="60%">
+      <stop offset="0" stop-color="#2a2f3f"/>
+      <stop offset="1" stop-color="#11141c"/>
+    </radialGradient>
+  </defs>
+  <rect width="512" height="512" fill="url(#glow)"/>
+  <g stroke="#c9a45c" stroke-opacity="0.16" stroke-width="5">
+    <path d="M256 256L256 0M256 256L437 75M256 256L512 256M256 256L437 437M256 256L256 512M256 256L75 437M256 256L0 256M256 256L75 75"/>
+    <path d="M256 256L354 19M256 256L493 158M256 256L493 354M256 256L354 493M256 256L158 493M256 256L19 354M256 256L19 158M256 256L158 19"/>
+  </g>
+  <path d="M256 60L452 256L256 452L60 256Z" fill="#11141c" stroke="#c9a45c" stroke-width="14"/>
+  <path d="M256 98L414 256L256 414L98 256Z" fill="none" stroke="#e8d29a" stroke-width="4"/>
+  <circle cx="240" cy="236" r="66" fill="none" stroke="#e8d29a" stroke-width="20"/>
+  <circle cx="240" cy="236" r="44" fill="#c9a45c" fill-opacity="0.18"/>
+  <path d="M288 284L338 334" stroke="#e8d29a" stroke-width="28" stroke-linecap="round"/>
+</svg>
