@@ -15,7 +15,7 @@
     "clue-c-study": "tr/wexley/clue-c-study.41cae3ec7a.mp3",
     "q-c-armchair": "tr/wexley/q-c-armchair.28929bad3d.mp3",
     "q-pell-about": "tr/wexley/q-pell-about.3b9cc21156.mp3",
-    "intro-2": "tr/wexley/intro-2.2a7e2901b3.mp3",
+    "intro-2": "tr/wexley/intro-2.2c3259b27e.mp3",
     "q-c-study": "tr/wexley/q-c-study.0b31cc338c.mp3",
     "say-pell-about": "tr/wexley/say-pell-about.20b7b48b63.mp3",
     "q-p-terrace": "tr/wexley/q-p-terrace.3faae1c391.mp3",
@@ -38,7 +38,8 @@
     "aide.wrong": "tr/_aide/aide.wrong.74595b49dd.mp3",
     "aide.right": "tr/_aide/aide.right.b17ca2e289.mp3",
     "aide.stuck": "tr/_aide/aide.stuck.5284b7a0e4.mp3",
-    "aide.done": "tr/_aide/aide.done.499e91152c.mp3"
+    "aide.done": "tr/_aide/aide.done.499e91152c.mp3",
+    "aide.enough": "tr/_aide/aide.enough.be1e45acfe.mp3"
    },
    "calais": {
     "collapse": "tr/calais/collapse.f99cfd1fb1.mp3",
@@ -81,7 +82,11 @@
     "q-d-berth": "tr/calais/q-d-berth.1132feb08e.mp3",
     "denouement-2": "tr/calais/denouement-2.908398e355.mp3",
     "denouement-0": "tr/calais/denouement-0.ba0cf9b125.mp3",
-    "denouement-1": "tr/calais/denouement-1.675b5256f0.mp3"
+    "denouement-1": "tr/calais/denouement-1.675b5256f0.mp3",
+    "q-f-bar": "tr/calais/q-f-bar.b3e6a2e4fb.mp3",
+    "clue-d-hats": "tr/calais/clue-d-hats.f6d4b0b7ac.mp3",
+    "q-d-hats": "tr/calais/q-d-hats.5b55be231e.mp3",
+    "clue-f-bar": "tr/calais/clue-f-bar.6460579aeb.mp3"
    },
    "hathor": {
     "intro-2": "tr/hathor/intro-2.47cb7a24d4.mp3",
@@ -131,7 +136,8 @@
     "q-c-feet": "tr/hathor/q-c-feet.e9ef8f82c7.mp3",
     "denouement-1": "tr/hathor/denouement-1.d6965888ca.mp3",
     "denouement-2": "tr/hathor/denouement-2.1294b0d18d.mp3",
-    "denouement-0": "tr/hathor/denouement-0.833b4c1714.mp3"
+    "denouement-0": "tr/hathor/denouement-0.833b4c1714.mp3",
+    "clue-e-coffee": "tr/hathor/clue-e-coffee.25920140fc.mp3"
    },
    "belle-rive": {
     "collapse": "tr/belle-rive/collapse.9a71978754.mp3",
@@ -188,7 +194,8 @@
     "q-g-krug": "tr/belle-rive/q-g-krug.59f3b692c3.mp3",
     "denouement-1": "tr/belle-rive/denouement-1.cd9cc60279.mp3",
     "denouement-0": "tr/belle-rive/denouement-0.a90c322a54.mp3",
-    "denouement-2": "tr/belle-rive/denouement-2.27baad8adc.mp3"
+    "denouement-2": "tr/belle-rive/denouement-2.27baad8adc.mp3",
+    "clue-e-sommelier": "tr/belle-rive/clue-e-sommelier.32ad0ea13f.mp3"
    }
   },
   "en": {
@@ -199,7 +206,7 @@
     "intro-0": "en/wexley/intro-0.ab54ab70e4.mp3",
     "intro-1": "en/wexley/intro-1.50033dff86.mp3",
     "collapse": "en/wexley/collapse.b47c308644.mp3",
-    "intro-2": "en/wexley/intro-2.ea0f8f4f87.mp3",
+    "intro-2": "en/wexley/intro-2.43f158efb2.mp3",
     "clue-e-sofa": "en/wexley/clue-e-sofa.e100733ab5.mp3",
     "clue-c-study": "en/wexley/clue-c-study.9bb9a99aa4.mp3",
     "clue-h-clock": "en/wexley/clue-h-clock.eb39e9b0fc.mp3",
@@ -229,7 +236,8 @@
     "aide.wrong": "en/_aide/aide.wrong.e987de72cc.mp3",
     "aide.right": "en/_aide/aide.right.a034288d3d.mp3",
     "aide.stuck": "en/_aide/aide.stuck.b50811a5d0.mp3",
-    "aide.done": "en/_aide/aide.done.0f3c26d52a.mp3"
+    "aide.done": "en/_aide/aide.done.0f3c26d52a.mp3",
+    "aide.enough": "en/_aide/aide.enough.f912060cf9.mp3"
    },
    "calais": {
     "intro-0": "en/calais/intro-0.659a238418.mp3",
@@ -272,7 +280,11 @@
     "q-d-berth": "en/calais/q-d-berth.0034f73790.mp3",
     "denouement-2": "en/calais/denouement-2.71f88dcf7c.mp3",
     "denouement-0": "en/calais/denouement-0.70c88cc5e0.mp3",
-    "denouement-1": "en/calais/denouement-1.2feea39c67.mp3"
+    "denouement-1": "en/calais/denouement-1.2feea39c67.mp3",
+    "clue-f-bar": "en/calais/clue-f-bar.30079193eb.mp3",
+    "q-f-bar": "en/calais/q-f-bar.736f51968a.mp3",
+    "q-d-hats": "en/calais/q-d-hats.37b18abbe2.mp3",
+    "clue-d-hats": "en/calais/clue-d-hats.ec4ea08816.mp3"
    },
    "hathor": {
     "intro-2": "en/hathor/intro-2.8d95924b5b.mp3",
@@ -322,7 +334,8 @@
     "q-c-embroidery": "en/hathor/q-c-embroidery.dcd5ca0539.mp3",
     "denouement-1": "en/hathor/denouement-1.35bbf0d459.mp3",
     "denouement-2": "en/hathor/denouement-2.7cfe71f0a2.mp3",
-    "denouement-0": "en/hathor/denouement-0.5ebaa6264f.mp3"
+    "denouement-0": "en/hathor/denouement-0.5ebaa6264f.mp3",
+    "clue-e-coffee": "en/hathor/clue-e-coffee.7054ee5f1d.mp3"
    },
    "belle-rive": {
     "collapse": "en/belle-rive/collapse.065f6e3bbb.mp3",
@@ -379,7 +392,8 @@
     "say-gaston-about": "en/belle-rive/say-gaston-about.052a4f4a75.mp3",
     "denouement-1": "en/belle-rive/denouement-1.4228213368.mp3",
     "denouement-2": "en/belle-rive/denouement-2.bbb8072fc0.mp3",
-    "denouement-0": "en/belle-rive/denouement-0.08c86534ed.mp3"
+    "denouement-0": "en/belle-rive/denouement-0.08c86534ed.mp3",
+    "clue-e-sommelier": "en/belle-rive/clue-e-sommelier.f2a922a9e6.mp3"
    }
   },
   "fr": {
@@ -393,7 +407,8 @@
     "aide.wrong": "fr/_aide/aide.wrong.79fa4aac1d.mp3",
     "aide.stuck": "fr/_aide/aide.stuck.cc6ce75e08.mp3",
     "aide.done": "fr/_aide/aide.done.c0dd670c1e.mp3",
-    "aide.right": "fr/_aide/aide.right.a94d09bd3c.mp3"
+    "aide.right": "fr/_aide/aide.right.a94d09bd3c.mp3",
+    "aide.enough": "fr/_aide/aide.enough.3f77dccf65.mp3"
    },
    "wexley": {
     "clue-p-terrace": "fr/wexley/clue-p-terrace.2ce9574284.mp3",
@@ -409,7 +424,7 @@
     "intro-0": "fr/wexley/intro-0.dd2ba017cf.mp3",
     "q-c-armchair": "fr/wexley/q-c-armchair.0dec9225ba.mp3",
     "q-p-terrace": "fr/wexley/q-p-terrace.b83e4d4f34.mp3",
-    "intro-2": "fr/wexley/intro-2.172e5be6e5.mp3",
+    "intro-2": "fr/wexley/intro-2.d4f513bea5.mp3",
     "say-cecily-about": "fr/wexley/say-cecily-about.cabc648dc7.mp3",
     "q-c-study": "fr/wexley/q-c-study.67c7ea3719.mp3",
     "q-pell-about": "fr/wexley/q-pell-about.f10a4fbe6f.mp3",
@@ -463,7 +478,11 @@
     "q-d-berth": "fr/calais/q-d-berth.fe3c6ad419.mp3",
     "denouement-2": "fr/calais/denouement-2.89db79e34c.mp3",
     "denouement-1": "fr/calais/denouement-1.6efd87a2b9.mp3",
-    "denouement-0": "fr/calais/denouement-0.e1b1063275.mp3"
+    "denouement-0": "fr/calais/denouement-0.e1b1063275.mp3",
+    "q-f-bar": "fr/calais/q-f-bar.58ed6d991b.mp3",
+    "q-d-hats": "fr/calais/q-d-hats.bc757de938.mp3",
+    "clue-d-hats": "fr/calais/clue-d-hats.2c2d9bff02.mp3",
+    "clue-f-bar": "fr/calais/clue-f-bar.ff7f5575fe.mp3"
    },
    "hathor": {
     "intro-2": "fr/hathor/intro-2.6b9081d613.mp3",
@@ -513,7 +532,8 @@
     "q-c-embroidery": "fr/hathor/q-c-embroidery.09e3f56c33.mp3",
     "denouement-2": "fr/hathor/denouement-2.ebfbf2041b.mp3",
     "denouement-1": "fr/hathor/denouement-1.55a1e18088.mp3",
-    "denouement-0": "fr/hathor/denouement-0.5f745898af.mp3"
+    "denouement-0": "fr/hathor/denouement-0.5f745898af.mp3",
+    "clue-e-coffee": "fr/hathor/clue-e-coffee.7cd97cb245.mp3"
    },
    "belle-rive": {
     "collapse": "fr/belle-rive/collapse.bbfa73e261.mp3",
@@ -570,7 +590,8 @@
     "q-g-krug": "fr/belle-rive/q-g-krug.8341336ece.mp3",
     "denouement-1": "fr/belle-rive/denouement-1.a68aef4781.mp3",
     "denouement-2": "fr/belle-rive/denouement-2.240970fea5.mp3",
-    "denouement-0": "fr/belle-rive/denouement-0.6254e8f873.mp3"
+    "denouement-0": "fr/belle-rive/denouement-0.6254e8f873.mp3",
+    "clue-e-sommelier": "fr/belle-rive/clue-e-sommelier.d42cfba6ef.mp3"
    }
   },
   "es": {
@@ -584,7 +605,8 @@
     "aide.wrong": "es/_aide/aide.wrong.b2d8ce7578.mp3",
     "aide.stuck": "es/_aide/aide.stuck.32e5bdea26.mp3",
     "aide.done": "es/_aide/aide.done.2976f33549.mp3",
-    "aide.right": "es/_aide/aide.right.d43299c2c5.mp3"
+    "aide.right": "es/_aide/aide.right.d43299c2c5.mp3",
+    "aide.enough": "es/_aide/aide.enough.edb464b459.mp3"
    },
    "wexley": {
     "collapse": "es/wexley/collapse.0a97c93e0a.mp3",
@@ -599,7 +621,7 @@
     "clue-p-fire": "es/wexley/clue-p-fire.bd42d876a8.mp3",
     "q-c-armchair": "es/wexley/q-c-armchair.93ca00a0a3.mp3",
     "q-cecily-about": "es/wexley/q-cecily-about.b9278fe2a9.mp3",
-    "intro-2": "es/wexley/intro-2.a938e6b82d.mp3",
+    "intro-2": "es/wexley/intro-2.f960dd8252.mp3",
     "q-c-study": "es/wexley/q-c-study.02f9e249dd.mp3",
     "q-pell-about": "es/wexley/q-pell-about.518b8406af.mp3",
     "say-cecily-about": "es/wexley/say-cecily-about.7df0b98cbe.mp3",
@@ -654,7 +676,11 @@
     "q-o-diag": "es/calais/q-o-diag.67ba28ff8f.mp3",
     "denouement-2": "es/calais/denouement-2.9fe9a5b71f.mp3",
     "denouement-0": "es/calais/denouement-0.2a3bbc72b0.mp3",
-    "denouement-1": "es/calais/denouement-1.fc2416f9d5.mp3"
+    "denouement-1": "es/calais/denouement-1.fc2416f9d5.mp3",
+    "clue-d-hats": "es/calais/clue-d-hats.95c8468af4.mp3",
+    "q-f-bar": "es/calais/q-f-bar.8f829adc11.mp3",
+    "clue-f-bar": "es/calais/clue-f-bar.8bd2e19c5f.mp3",
+    "q-d-hats": "es/calais/q-d-hats.8251a5917e.mp3"
    },
    "hathor": {
     "intro-2": "es/hathor/intro-2.0aea28015e.mp3",
@@ -704,7 +730,8 @@
     "q-c-feet": "es/hathor/q-c-feet.5755f72beb.mp3",
     "denouement-1": "es/hathor/denouement-1.8f1cf6d23d.mp3",
     "denouement-2": "es/hathor/denouement-2.97d748e509.mp3",
-    "denouement-0": "es/hathor/denouement-0.4ec31ad736.mp3"
+    "denouement-0": "es/hathor/denouement-0.4ec31ad736.mp3",
+    "clue-e-coffee": "es/hathor/clue-e-coffee.ac6b34b177.mp3"
    },
    "belle-rive": {
     "collapse": "es/belle-rive/collapse.bb84d948b4.mp3",
@@ -761,7 +788,8 @@
     "q-g-krug": "es/belle-rive/q-g-krug.65d2e624ea.mp3",
     "denouement-1": "es/belle-rive/denouement-1.ed2248e290.mp3",
     "denouement-2": "es/belle-rive/denouement-2.ccf384f49f.mp3",
-    "denouement-0": "es/belle-rive/denouement-0.71896789fe.mp3"
+    "denouement-0": "es/belle-rive/denouement-0.71896789fe.mp3",
+    "clue-e-sommelier": "es/belle-rive/clue-e-sommelier.585eee23e4.mp3"
    }
   }
  }
