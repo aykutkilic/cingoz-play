@@ -1,0 +1,1 @@
+import{n as e}from"./dom-D5s8RAx_.js";function t(t){return e(`li`,{class:`dz-wline ${t.level}`},`${t.level===`error`?`✗`:`⚠`} ${t.text}`)}function n(n,r){let i=e(`ul`,{class:`dz-warnbox`}),a=()=>{let e=(n.analysis?.warnings??[]).filter(r);i.replaceChildren(...e.map(t)),i.hidden=!e.length};return a(),n.onAnalysis(a),i}export{n as t};
