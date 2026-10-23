@@ -1,1 +1,0 @@
-import{c as e}from"./story-CKM9kFrH.js";function t(e){return[{victim:e.victim,forensic:e.forensic,collapse:e.collapse,hands:e.hands??1},...(e.moreDeaths??[]).map(e=>({...e,hands:e.hands??1}))]}function n(n){return n.crimes?[...new Set(n.crimes.filter(t=>e(t.kind)&&t.victim).map(e=>e.victim))]:[...new Set(t(n).map(e=>e.victim))]}export{n,t};
