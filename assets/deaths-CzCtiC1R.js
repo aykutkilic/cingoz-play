@@ -1,1 +1,0 @@
-function e(e){return[{victim:e.victim,forensic:e.forensic,collapse:e.collapse,hands:e.hands??1},...(e.moreDeaths??[]).map(e=>({...e,hands:e.hands??1}))]}function t(t){return[...new Set(e(t).map(e=>e.victim))]}export{t as n,e as t};
