@@ -1,1 +1,0 @@
-var e=`cingoz:v1:`;function t(t,n){try{let r=localStorage.getItem(`${e}pref:${t}`);return r===null?n:JSON.parse(r)}catch{return n}}function n(t,n){try{localStorage.setItem(`${e}pref:${t}`,JSON.stringify(n))}catch{}}export{n,t};
